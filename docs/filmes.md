@@ -2,7 +2,7 @@ Filmes Preferidos da Equipe
 
 ## Filme Preferido Integrante Ronaldo Souza 
 
-* Velozes e Furiosos
+* Velozes e Furiosos 8
 * Divergente
 * Insurgente
 * COnvergente
