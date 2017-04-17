@@ -4,12 +4,19 @@
 
 Musicas Preferido Integrante Ronaldo Souza
 
+* Atirei o pau no gato.
+* Borboletinha.
+* Formiguinha.
+* A canoa virou.
+
+Musicas Preferido Integrante Leandro Grosso
+
 * Musica 1
 * Musica 2
 * Musica 3
 * Musica 4
 
-Musicas Preferido Integrante Leandro Grosso
+Musicas Preferido Integrante Rubens Gomes
 
 * Musica 1
 * Musica 2
@@ -22,3 +29,4 @@ Musicas Preferido Integrante Raphael
 * The Heavy - How do you like me now
 * Korn - Blind 
 * bearthooth - hated
+
