@@ -11,10 +11,10 @@ Musicas Preferido Integrante Ronaldo Souza
 
 Musicas Preferido Integrante Leandro Grosso
 
-* Musica 1
-* Musica 2
-* Musica 3
-* Musica 4
+* this one's for you
+* País do Futebol
+* Da ponte pra cá
+* Diário de um detento
 
 Musicas Preferido Integrante Raphael
 
