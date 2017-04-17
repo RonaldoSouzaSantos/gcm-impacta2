@@ -2,26 +2,26 @@
 
 ## Musicas Preferidas
 
-Musicas Preferido Integrante Ronaldo Souza
+Musicas Preferidas Integrante Ronaldo Souza
 
 * Atirei o pau no gato.
 * Borboletinha.
 * Formiguinha.
 * A canoa virou.
 
-Musicas Preferido Integrante Leandro Grosso
+Musicas Preferidas Integrante Leandro Grosso
 
 * Musica 1
 * Musica 2
 * Musica 3
 * Musica 4
 
-Musicas Preferido Integrante Rubens Gomes
+Musicas Preferidas Integrante Rubens
 
-* Musica 1
-* Musica 2
-* Musica 3
-* Musica 4
+* Symphony of destruction - Megadeth
+* Cancer - My chemical Romance
+* O redator - Zimbra
+* Vento no litoral - Cássia Eller e Renato Russo
 
 Musicas Preferido Integrante Raphael
 
@@ -29,4 +29,5 @@ Musicas Preferido Integrante Raphael
 * The Heavy - How do you like me now
 * Korn - Blind 
 * bearthooth - hated
+
 
