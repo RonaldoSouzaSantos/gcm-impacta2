@@ -10,10 +10,10 @@ Filmes Preferidos da Equipe
 
 ## Filme Preferido Integrante Leandro Grosso
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Matrix
+* Harry Potter
+* Velozes e Furiosos
+* The Avengers
 
 
 ## Filme Preferido Integrante Rubens Gomes
